@@ -11,3 +11,5 @@ Platforms/
 *.png
 *.md
 .svn/
+.vs/
+Saved/
