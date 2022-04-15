@@ -1,0 +1,10 @@
+.git/
+Binaries/
+Build/
+Build/
+Intermediate/
+Config/
+Content/
+DerivedDataCache/
+Intermediate/
+Platforms/
