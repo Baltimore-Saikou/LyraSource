@@ -8,3 +8,5 @@ Content/
 DerivedDataCache/
 Intermediate/
 Platforms/
+*.png
+*.md
