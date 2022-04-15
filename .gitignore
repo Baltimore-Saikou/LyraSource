@@ -1,6 +1,6 @@
 .git/
-Binaries/
 Build/
+Binaries/
 Build/
 Intermediate/
 Config/
@@ -10,3 +10,4 @@ Intermediate/
 Platforms/
 *.png
 *.md
+.svn/
