@@ -3,7 +3,6 @@ Build/
 Binaries/
 Build/
 Intermediate/
-Config/
 Content/
 DerivedDataCache/
 Intermediate/
@@ -14,3 +13,4 @@ Platforms/
 .vs/
 Saved/
 .idea/
+Packed/
